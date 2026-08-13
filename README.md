@@ -107,6 +107,17 @@ three times (badge, price slot, button):
   available Google Review Stand's price), and no bottom button at all.
 - The two available products (Keychain, Google Review Stand) were untouched.
 
+## V6 fix
+
+Hero cleanup, nothing else touched:
+
+- Removed the large TapNorth logo card that sat between the hero's
+  supporting paragraph and the "Shop TapNorth" / "See How It Works" CTAs —
+  no replacement image added, that space is now empty.
+- CTAs moved up to sit directly under the paragraph.
+- Header logo, eyebrow, headline, and the animated hero background were not
+  touched.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
