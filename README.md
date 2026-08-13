@@ -140,6 +140,21 @@ Hero branding upgrade, nothing else touched:
 - Header/nav logo, headline, paragraph, CTAs, and the animated background
   were not touched.
 
+## V9 fix
+
+Hero spacing/cleanup pass, nothing else touched:
+
+- Removed the logo + "TapNorth" wordmark lockup from the hero entirely — no
+  image/logo of any kind above "PREMIUM NFC SOLUTIONS" now.
+- Added breathing room above and below the blue "PREMIUM NFC SOLUTIONS"
+  eyebrow.
+- Tightened the supporting paragraph's line width for easier reading.
+- Increased the gap between the paragraph and the CTA row.
+- Narrowed the copy column so more space is left on the right for the
+  animated visual.
+- Nav logo, headline wording, theme, animation, and every other section were
+  not touched.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
