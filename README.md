@@ -129,6 +129,17 @@ Small hero addition, nothing else touched:
 - Header logo, headline, paragraph, CTAs, and the animated background were
   not touched.
 
+## V8 fix
+
+Hero branding upgrade, nothing else touched:
+
+- The small standalone logo above "PREMIUM NFC SOLUTIONS" is now a larger
+  logo + bold "TapNorth" wordmark lockup, same position and left alignment,
+  styled to match the site's premium type system. Same logo asset reused, no
+  new image.
+- Header/nav logo, headline, paragraph, CTAs, and the animated background
+  were not touched.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
