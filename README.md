@@ -155,6 +155,18 @@ Hero spacing/cleanup pass, nothing else touched:
 - Nav logo, headline wording, theme, animation, and every other section were
   not touched.
 
+## V10 fix
+
+Hero simplification, nothing else touched:
+
+- Removed the "PREMIUM NFC SOLUTIONS" eyebrow text from the hero entirely —
+  no replacement text, logo, or badge. "One Tap. Better Business." is now
+  the first element in the hero content.
+- Spacing rebalanced so the headline sits naturally at the top of the block
+  rather than leaving a gap.
+- Nav logo, headline wording, paragraph, CTAs, animation, colors, and every
+  other section were not touched.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
