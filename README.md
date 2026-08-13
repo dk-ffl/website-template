@@ -118,6 +118,17 @@ Hero cleanup, nothing else touched:
 - Header logo, eyebrow, headline, and the animated hero background were not
   touched.
 
+## V7 fix
+
+Small hero addition, nothing else touched:
+
+- Added a small TapNorth logo mark above the "PREMIUM NFC SOLUTIONS" eyebrow
+  line, left-aligned with the hero copy — the same logo asset already used
+  in the header, not a new image.
+- Hero order now: small logo → eyebrow → headline → paragraph → CTAs.
+- Header logo, headline, paragraph, CTAs, and the animated background were
+  not touched.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
