@@ -76,6 +76,27 @@ Brand positioning, copy accuracy, and product-data pass — no redesign:
   horizontal-scroll issue found (a decorative background glow extends past
   the viewport edge but doesn't affect scrolling).
 
+## V4 cleanup
+
+Product-lineup and layout cleanup pass — no redesign:
+
+- Removed the standalone Pricing section and its nav/footer links (prices
+  still shown on each product card); adjacent sections rebalanced so there's
+  no gap left behind.
+- Businesses We Serve: removed the Airbnb/Guest-Stay product image, left that
+  side empty per instruction, and rebalanced the section to a full-width
+  layout so it still reads as intentional.
+- Products reordered with the All-in-One NFC Keychain first, then the Google
+  Review NFC Stand, followed by the five remaining stands (Social, Wi-Fi,
+  Menu, Appointment, Airbnb/Guest Stay).
+- Only the Keychain and Google Review Stand are marked available (real price,
+  active order CTA, stronger visual emphasis). The other five stands now
+  carry a premium "Coming Soon" badge, no purchasable price shown, and a
+  disabled CTA — photos and descriptions kept so visitors can still see
+  what's coming.
+- Order form's product dropdown trimmed to the two available products (plus
+  the existing "Other" catch-all) — coming-soon products can't be submitted.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
