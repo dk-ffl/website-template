@@ -167,6 +167,24 @@ Hero simplification, nothing else touched:
 - Nav logo, headline wording, paragraph, CTAs, animation, colors, and every
   other section were not touched.
 
+## V11 polish
+
+Copy and icon-styling cleanup, no structural or design changes:
+
+- Hero paragraph shortened to "TapNorth connects customers to reviews,
+  Wi-Fi, menus, bookings and more with one simple tap."
+- How It Works Step 1 body simplified to "Choose the TapNorth NFC solution
+  that fits your business."
+- Products section intro replaced with "Premium NFC solutions for
+  businesses, built to make every customer interaction simpler."
+- Contact payment line changed to "Arranged after your order is confirmed."
+- Why TapNorth icons: removed the solid dark background baked into each
+  icon image so they read as standalone blue line icons, with the artwork
+  and blue color otherwise unchanged.
+- Footer line changed to "Premium NFC products for Canadian businesses."
+- Verified sitewide: no remaining "Smart NFC products" wording and no QR
+  wording anywhere visible; desktop/mobile spot-checked clean.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
