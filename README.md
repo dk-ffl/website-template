@@ -185,6 +185,16 @@ Copy and icon-styling cleanup, no structural or design changes:
 - Verified sitewide: no remaining "Smart NFC products" wording and no QR
   wording anywhere visible; desktop/mobile spot-checked clean.
 
+## V12 fix
+
+Single copy edit, nothing else touched:
+
+- Hero paragraph changed to "TapNorth connects customers to reviews, social
+  media, bookings and more with one simple tap." (removed Wi-Fi/menus).
+- Checked meta description, JSON-LD, and product copy for the same pattern —
+  those are a separate literal product-SKU list, not the hero tagline, so
+  left unchanged; no other instance of the tagline pattern exists elsewhere.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
