@@ -97,6 +97,16 @@ Product-lineup and layout cleanup pass — no redesign:
 - Order form's product dropdown trimmed to the two available products (plus
   the existing "Other" catch-all) — coming-soon products can't be submitted.
 
+## V5 fix
+
+Small follow-up to V4's Coming Soon cards, which repeated "Coming Soon"
+three times (badge, price slot, button):
+
+- Each Coming Soon stand card now shows exactly one "COMING SOON" badge at
+  the top, its real "$50 CAD" price restored (styled the same as the
+  available Google Review Stand's price), and no bottom button at all.
+- The two available products (Keychain, Google Review Stand) were untouched.
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
