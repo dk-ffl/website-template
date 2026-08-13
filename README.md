@@ -50,6 +50,32 @@ Targeted edit pass, same design/animations/layout — no redesign:
 - Navigation unchanged; `Products` link verified to still route to the
   expanded catalog.
 
+## V3 refinement
+
+Brand positioning, copy accuracy, and product-data pass — no redesign:
+
+- Hero now leads with a "Premium NFC Solutions" eyebrow above the existing
+  headline, subhead expanded to mention menus and bookings; logo remains the
+  main hero visual.
+- All QR-code language removed sitewide (copy, FAQ, meta/JSON-LD) — TapNorth
+  is presented as NFC-only for now.
+- Product descriptions tightened to final client wording across all 7 items;
+  pricing ($50 CAD/stand, $10 CAD/keychain, contact for bulk) made consistent
+  everywhere it appears.
+- Added material + dimensions to every product card: acrylic stands (130mm W
+  x 180mm H, 50mm base, kept as distinct figures, never summed), epoxy
+  keychain (40mm x 40mm).
+- How It Works, Why TapNorth, FAQ (expanded to 9 Q&As), and the Pricing
+  section rewritten to match the brief; contact form's product dropdown
+  confirmed to list all 7 products.
+- Found and fixed a real bug: the hero animation and the contact form
+  briefly shared the same section anchor, so "Order This Stand" / "Contact
+  for pricing" buttons were landing mid-hero instead of the form. Every CTA
+  now verified to reach the actual form.
+- Mobile and desktop layouts reviewed section-by-section; no functional
+  horizontal-scroll issue found (a decorative background glow extends past
+  the viewport edge but doesn't affect scrolling).
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
