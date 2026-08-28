@@ -195,6 +195,21 @@ Single copy edit, nothing else touched:
   those are a separate literal product-SKU list, not the hero tagline, so
   left unchanged; no other instance of the tagline pattern exists elsewhere.
 
+## V13 fix
+
+Section removal, nothing else touched:
+
+- Removed the entire "Businesses We Serve" section (heading, paragraph, all
+  13 category items, and its container) — no replacement content. Why
+  TapNorth now flows directly into FAQ with normal section spacing.
+- No nav/footer links pointed at this section, so nothing else needed
+  cleanup.
+- This pass hit a multi-day platform outage on Higgsfield's website-builder
+  tools, then a network-policy block on the site's git host once tools were
+  back; both are resolved (the git workflow now routes through Higgsfield's
+  own cloud sandbox, which isn't subject to this session's local network
+  restrictions).
+
 ## Status
 
 Awaiting client review and approval before any public launch or listing.
